@@ -1,0 +1,21 @@
+SELECT id,Cantidad FROM tblVentas
+
+SELECT Cantidad,Precio_de_Venta FROM tblVentas
+
+SELECT id,apellido FROM tblPersonas
+
+SELECT id,celular FROM tblPersonas
+
+SELECT nombre,correo FROM tblPersonas
+
+SELECT id,id_Productos,Total_item FROM tblVentas
+
+SELECT descripcion,valor FROM tblProductos
+
+SELECT id,descripcion FROM tblProductos
+
+SELECT id,valor FROM tblProductos
+
+SELECT * FROM tblProductos
+
+Hecho por Sneider Velasquez Iglesias 
